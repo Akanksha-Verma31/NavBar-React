@@ -1,0 +1,43 @@
+.home {
+  width: 100%;
+  height: 100vh;
+  background: rgb(222, 66, 66);
+  background: linear-gradient(
+    90deg,
+    rgba(222, 66, 66, 1) 0%,
+    rgba(212, 32, 32, 1) 94%
+  );
+}
+.info {
+  font-size: 22px;
+  color: rgb(255, 72, 0);
+}
+p {
+  background: rgb(222, 66, 66);
+  background: linear-gradient(
+    90deg,
+    rgba(222, 66, 66, 1) 0%,
+    rgba(212, 32, 32, 1) 94%
+  );
+}
+.text {
+  padding-top: 170px;
+}
+.home > h1,
+.text {
+  width: 100%;
+  height: 110vh;
+  background: rgb(222, 66, 66);
+  background: linear-gradient(
+    90deg,
+    rgba(222, 66, 66, 1) 0%,
+    rgba(212, 32, 32, 1) 94%
+  );
+}
+.list {
+  color: rgb(251, 124, 82);
+  list-style-type: inherit;
+}
+ol {
+  list-style-type: inherit;
+}
