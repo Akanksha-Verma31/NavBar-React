@@ -7,7 +7,7 @@ Vercel Deployment : https://nav-bar-react.vercel.app/
 ### Home Page
 <img src="https://github.com/Akanksha-Verma31/NavBar-React/blob/main/nav%20Home.png">
 ### About Page
-<img src="https://github.com/Akanksha-Verma31/NavBar-React/blob/main/nav%20About.png"
+<img src="https://github.com/Akanksha-Verma31/NavBar-React/blob/main/nav%20About.png">
 ### Service Page
 <img src="https://github.com/Akanksha-Verma31/NavBar-React/blob/main/nav%20Service.png">
 ### SignIn Page
