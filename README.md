@@ -24,3 +24,9 @@ Vercel Deployment : https://nav-bar-react.vercel.app/
 
 ### Menu Bar In Smaller Screen
 <img src="https://github.com/Akanksha-Verma31/NavBar-React/blob/main/nav%20Resp2.png">
+
+## Features
+- Responsive
+- Hover effects
+- Dynamic Routing
+- SignIn/SignUp
